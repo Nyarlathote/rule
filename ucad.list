@@ -5,7 +5,7 @@ DOMAIN-KEYWORD,adservice
 # (0~9)
 # > uc
 DOMAIN,v3-default.ixigua.com
-DOMAIN-SUFFIX,uc.cn
+DOMAIN,image.uc.cn
 DOMAIN,mdap.alipay.com
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,ctobsnssdk.com
